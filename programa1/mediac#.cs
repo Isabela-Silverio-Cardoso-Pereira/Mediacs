@@ -22,11 +22,6 @@ namespace programa1
             Console.WriteLine(MEDIA.ToString("F4"));
 
 
-
-
-
-
-
         }
     }
 }
